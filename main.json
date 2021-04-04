@@ -324,8 +324,8 @@
          "name":"cija_32x32_expansion for Pipoya_CC0",
          "spacing":0,
          "tilecount":1995,
-         "tileheight":32,
-         "tilewidth":32
+         "tileheight":16,
+         "tilewidth":16
         }, 
         {
          "columns":9,
