@@ -260,6 +260,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausFire"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Kamin Unterhaltung"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -278,6 +283,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausBar"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bar Unterhaltung"
                 }],
          "type":"tilelayer",
          "visible":true,
