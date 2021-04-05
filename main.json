@@ -147,6 +147,11 @@
                  "value":"wirtshausTable1"
                 }, 
                 {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Tisch 1 Unterhaltung"
@@ -168,6 +173,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausTable2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
@@ -193,6 +203,11 @@
                  "value":"wirtshausTable3"
                 }, 
                 {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Tisch 3 Unterhaltung"
@@ -214,6 +229,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausTable4"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
@@ -239,6 +259,11 @@
                  "value":"wirtshausTable5"
                 }, 
                 {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Tisch 5 Unterhaltung"
@@ -262,6 +287,11 @@
                  "value":"wirtshausFire"
                 }, 
                 {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Kamin Unterhaltung"
@@ -283,6 +313,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausBar"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
