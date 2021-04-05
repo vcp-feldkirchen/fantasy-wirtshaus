@@ -145,6 +145,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausTable1"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Tisch 1 Unterhaltung"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,6 +168,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausTable2"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Tisch 2 Unterhaltung"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,6 +191,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausTable3"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Tisch 3 Unterhaltung"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,6 +214,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausTable4"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Tisch 4 Unterhaltung"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -217,6 +237,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"wirtshausTable5"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Tisch 5 Unterhaltung"
                 }],
          "type":"tilelayer",
          "visible":true,
