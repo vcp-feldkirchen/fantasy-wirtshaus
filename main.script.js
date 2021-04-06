@@ -1,3 +1,4 @@
+console.warn('script');
 let helloWorldPopup;
 
 // Open the popup when we enter a given zone
