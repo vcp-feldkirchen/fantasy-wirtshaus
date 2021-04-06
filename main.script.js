@@ -4,3 +4,4 @@ onEnterZone('npcZone', () => {
 onLeaveZone('npcZone', () => {
     WA.sendChatMessage("GoodBye", 'Mr.Teddy');
 }
+WA.sendChatMessage("test", 'test');
