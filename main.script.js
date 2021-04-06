@@ -1,3 +1,4 @@
+WA.openTab('example.com');
 WA.onEnterZone('npcZone', () => {
     WA.sendChatMessage("Hello, how can I help you?", 'Mr.Teddy');
 });
